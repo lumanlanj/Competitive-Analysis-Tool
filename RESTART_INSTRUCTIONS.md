@@ -12,7 +12,7 @@ In the terminal where `npm run dev` is running:
 
 ### Step 2: Start Fresh
 ```bash
-cd "/Users/jerico._./Desktop/Personal Project /ux-analysis-tool"
+cd /path/to/ux-analysis-tool
 npm run dev
 ```
 

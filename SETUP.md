@@ -3,7 +3,7 @@
 ## Step 1: Navigate to the Project
 
 ```bash
-cd "/Users/jerico._./Desktop/Personal Project /ux-analysis-tool"
+cd /path/to/ux-analysis-tool
 ```
 
 ## Step 2: Verify Environment Variables
